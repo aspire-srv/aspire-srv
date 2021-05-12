@@ -8,7 +8,7 @@
 ### A Web Developer. It all started in Jan-2021 when a good friend of mine introduced me to web development. I started learning HTML, and quickly after I got into CSS, at that point I was mind blown by it's power!
 ### I started learning jQuery to enhance my "web powers", but after a while, realizing that jQuery is built on top of JavaScript, I dropped it and started learning Vanilla JS, and when I felt that I understood what is going on under the hood, I picked ReactJS to help me on the long run on the front-end. I also added NodeJS (back-end) to my skills palette so I could provide Full-Stack JavaScript services. :)
 
-![](https://komarev.com/ghpvc/?username=aspire-srv&color=24292E&style=flat-square&label=Profile+visitors)
+
 
 - 🏢 I'm currently working on Web development Skills.
 - 💬 Ping me about **MongoDB**, **Express.js**, **React**, **Node.js**, **EJS**, **OAuth 2.0**, **better coding practices**, and **development in general**.
