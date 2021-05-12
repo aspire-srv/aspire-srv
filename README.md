@@ -25,11 +25,11 @@
 
 **Languages and Frameworks:**
 <p align="left"> 
-<a href="https://reactjs.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjFFjtYIl7BYgTkanKFI__Vaqbzr5JkKjVxwAmJcdXceW16zqKjLfCa3Xj2BrnorHcLd4&usqp=CAU" alt="react" width="40" height="40"/> </a> 
+<a href="https://reactjs.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjFFjtYIl7BYgTkanKFI__Vaqbzr5JkKjVxwAmJcdXceW16zqKjLfCa3Xj2BrnorHcLd4&usqp=CAU" alt="react" width="60" height="60"/> </a> 
 <a href="https://nodejs.org/en/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHT5uUPJZYqRc9rBFpe2NbLlEbCzjk_VdzDNNnBjR7QhiuQ2dbjDOgyGbgTo8wZrD_GNI&usqp=CAU" alt="Node.js" width="60" height="60"/> </a> 
- <a href="https://www.mongodb.com/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJeYB2WdCjfzpLUbS0NFsIIhq3Sd--UImkhfNXefpLPLkXvs0gMoS-FuPSAYjVbtvpe78&usqp=CAU" alt="mongoDB" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+ <a href="https://www.mongodb.com/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJeYB2WdCjfzpLUbS0NFsIIhq3Sd--UImkhfNXefpLPLkXvs0gMoS-FuPSAYjVbtvpe78&usqp=CAU" alt="mongoDB" width="60" height="60"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a> 
+<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> </a> 
   
 </p>
 
