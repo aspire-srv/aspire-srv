@@ -11,7 +11,7 @@
 
 
 - 🏢 I'm currently working at Grazitti Interactive.
-- 💬 Ping me about **MongoDB**, **Express.js**, **React**, **Node.js**, **EJS**, **OAuth 2.0**, **better coding practices**, and **development in general**.
+- 💬 Ping me about **React.js**, **HTML**, **CSS**, **JS**, **better coding practices**, and **development in general**.
 - ⚙️ I daily use: `.js`, `.html`, `.css`
 - 🎨 I've a portfolio, checkout here [Sourabh's Portfolio](https://aspire-srv.github.io/Portfolio/)
 - 🤓 Developed some basic projects when I was still learning: [Daily-journal](https://damp-earth-95692.herokuapp.com/), [ToDo-WebApp](https://secret-reef-52117.herokuapp.com/),    [etc…](https://github.com/aspire-srv/repositories)
