@@ -1,4 +1,4 @@
-# Hi, I'm Sourabh  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="45" width="45" />
+# Hi, Nice to Meet You !  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="45" width="45" />
 
 
 ![](https://komarev.com/ghpvc/?username=aspire-srv&color=24292E&style=flat-square&label=Profile+visitors)
@@ -23,8 +23,8 @@
   <ul>
     <br>
     <li>OAuth 2.0</li>
-    <li>C# .Net</li>
-    <li>Android Development.</li>
+    <li>Elasticsearch</li>
+    <li>DSA</li>
     <li>Work on some project by using all available best practices.</li>
     <li>🔜</li>
   </ul>
