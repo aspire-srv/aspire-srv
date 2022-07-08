@@ -22,7 +22,7 @@
   <summary>I learn stuff while I work, but there are still some things I want a chance to get my hands on.</summary>
   <ul>
     <br>
-    <li>OAuth 2.0</li>
+    <li>JAVA</li>
     <li>Elasticsearch</li>
     <li>DSA</li>
     <li>Work on some project by using all available best practices.</li>
