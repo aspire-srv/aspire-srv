@@ -6,7 +6,7 @@
 
 
 
-### I'm a Front-end Developer. I have been a long time UI/UX Enthusiast, who's still learning and growing as a dev. I strive to write better code which is more flexible and activtely working towards the same.
+### I'm a Front-end Developer. I have been a long time technology Enthusiast, who's still learning and growing as a SWE. I strive to write better code which is more flexible and activtely working towards the same.
 
 
 
