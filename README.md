@@ -1,4 +1,4 @@
-# Hi, I'm Sourabh  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi, I'm Sourabh  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">
 
 
 ![](https://komarev.com/ghpvc/?username=aspire-srv&color=24292E&style=flat-square&label=Profile+visitors)
